@@ -2,7 +2,7 @@
 .env
 
 # wordpress files
-wordpress
+globalnet
 
 # mysql files
 dbdata
